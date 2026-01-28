@@ -97,6 +97,15 @@ Anything inside:
 ```md
 ```bash
 
+
+## 📡 API Endpoints
+
+POST /api/auth/register  
+POST /api/auth/login  
+GET /api/lectures  
+GET /api/notes  
+
+
 ⚠️ Important
 
 Replace YOUR_USERNAME with your GitHub username
@@ -118,3 +127,18 @@ Pull requests are welcome. For major changes, please open an issue first.
 📄 License
 
 This project is licensed under the MIT License.
+
+
+## 🌐 Live Demo
+
+Coming soon.
+
+## 🛣 Roadmap
+
+- Admin dashboard
+- Payment integration
+- Recommendation system
+- Mobile app
+
+
+
