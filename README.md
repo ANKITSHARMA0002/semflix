@@ -96,3 +96,25 @@ Anything inside:
 
 ```md
 ```bash
+
+⚠️ Important
+
+Replace YOUR_USERNAME with your GitHub username
+
+Replace your_mongodb_connection with your MongoDB URI
+
+Replace your_secret_key with any secure string
+
+These are example placeholders.
+
+🌱 Project Vision
+
+SemFlix aims to simplify exam preparation by centralizing high-quality academic content into one platform — enabling students to study smarter, not harder.
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+📄 License
+
+This project is licensed under the MIT License.
